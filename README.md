@@ -1,3 +1,5 @@
+PROJECT IMPLEMENTATION STEPS:
+
 Set Up Build-
 
 1.	Created a t2.large EC2 instance where we install Jenkins, SonarQube and Trivy.
