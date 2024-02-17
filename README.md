@@ -15,7 +15,7 @@ Set Up Build-
 13.	Configured dependency check and Docker in tools.
 14.	Updated the pipeline script with OWASP dependency check and Docker stages and configured the Jenkins build to push the Docker image to Docker Hub.
 
-Moniotoring-
+Monitoring-
 
 15.	To set up monitoring, created a new EC2 instance of type t2.medium to install Prometheus, Node Exporter and Grafana.
 16.	Configured Grafana with Node Exporter and integrated with Prometheus to create dashboards.
